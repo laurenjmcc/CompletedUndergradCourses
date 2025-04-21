@@ -1,4 +1,4 @@
-# Completed Mathematics Courses //(Last Updated: May 2025)
+# Completed Mathematics Courses (Last Updated: May 2025)
 Courses
 - MAT135 - Calculus I
 - MAT136 - Calculus II
