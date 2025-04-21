@@ -1,8 +1,8 @@
 # Mathematics-Programs
 Courses
-- MAT138 - Introduction to Proofs
 - MAT135 - Calculus I
 - MAT136 - Calculus II
+- MAT138 - Introduction to Proofs
 - MAT235 - Multivariable Calculus
 - MAT223 - Linear Algebra I
 - MAT224 - Linear Algebra II
